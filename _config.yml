@@ -14,9 +14,6 @@ aux_links:
 
 aux_links_new_tab: true
 
-back_to_top: true
-back_to_top_text: "返回页首"
-
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "在 Github 上编辑此页"
