@@ -7,8 +7,10 @@ url: https://docs.tbedu.top
 enable_copy_code_button: true
 
 aux_links:
-  TBBBS: https://www.tbedu.top
-  TBSkin: https://skin.tbedu.top
+  "TBBBS": 
+    - "https://www.tbedu.top"
+  "TBSkin": 
+    - "https://skin.tbedu.top"
 
 aux_links_new_tab: true
 
