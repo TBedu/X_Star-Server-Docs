@@ -2,7 +2,7 @@
 layout: page
 title: 维基
 has_children: true
-nav_order: 0
+nav_order: 1
 ---
 
 # 欢迎来到 X_Star 维基!
