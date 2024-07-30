@@ -2,7 +2,7 @@
 layout: page
 title: Wiki
 has_children: true
-nav_order: 0
+nav_order: 1
 ---
 
 # 欢迎来到 X_Star Wiki!
