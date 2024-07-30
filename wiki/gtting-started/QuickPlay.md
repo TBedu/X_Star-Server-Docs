@@ -3,7 +3,7 @@ layout: page
 title: 快速开始
 parent: Getting Started
 grand_parent: Wiki
-nav_order: 2
+nav_order: 1
 ---
 
 ## 在Windows上游玩
@@ -20,10 +20,8 @@ nav_order: 2
 		- 微软商店：[https://apps.microsoft.com/detail/9p4nqqxq942p?hl=zh-cn&gl=cn](https://apps.microsoft.com/detail/9p4nqqxq942p?hl=zh-cn&gl=cn)
 - 使用微软授权的网易版[我的世界](https://mc.163.com/)游玩
 
-**$\color{Red}本服务器不支持网易版我的世界游玩$**
-**$\color{Red}本服务器不支持 Minecraft Bedrock Edition 游玩$**
-
----
+**本服务器不支持网易版我的世界游玩**  
+**本服务器不支持 Minecraft Bedrock Edition 游玩**
 
 ### 二、配置游戏环境
 >请注意，当使用某些与操作系统不匹配的Java版本（32或64位）、使用某些Java 7版本或安装了多个版本的Java玩Minecraft Java版时可能会引发某些用户体验问题。
@@ -53,12 +51,13 @@ PCL2详细教程：[PCL2食用(设置)教程 [新] - 哔哩哔哩](https://www.b
 以PCL2为例，点击**启动游戏**。
 如果一切顺利的话，你应该会看到游戏窗口。
 
->Q：启动器提示缺少Java
-A：检查自己在查阅本文档的**二、配置游戏环境**有无疏忽
-Q：我没有看到游戏窗口？
-A：请将运行日志（启动器和Minecraft）打包，发给群友或者大佬判断
+>Q：启动器提示缺少Java  
+A：检查自己在查阅本文档的**二、配置游戏环境**有无疏忽  
+Q：我没有看到游戏窗口？  
+A：请将运行日志（启动器和Minecraft）打包，发给群友或者大佬判断  
+
 ### 五、进入服务器
-点击**多人游戏**>**添加服务器**，输入服务器地址`play.tbedu.top`点击**完成**
+点击**多人游戏**>**添加服务器**，输入服务器地址`play.tbedu.top`点击**完成**  
 >初次使用多人游戏会弹出Mojang的警示框，请忽略。
 
 >请访问[https://ipw.cn/ipv6/](https://ipw.cn/ipv6/)，查看“IP”一栏，如显示“网络未开启IPv6”，请忽略本消息。如果显示出了一长串奇怪的字符，这说明你的网络支持IPv6。请回到Minecraft界面。这时，你可以在“服务器地址”一栏填写`ipv6.tbedu.top:6000`，延迟普遍会更低。
@@ -73,11 +72,7 @@ A：请将运行日志（启动器和Minecraft）打包，发给群友或者大�
 现在请根据聊天栏提示跳转的你想玩的的子服务器吧！在X_Star，玩得开心！
 
 ## 在安卓设备上游玩
-你将使用FoldCraftLauncher（FCL）在安卓设备上游玩Minecraft Java Edition
-[点我下载FCL 1.1.7.3](https://github.moeyy.xyz/https://github.com/FCL-Team/FoldCraftLauncher/releases/download/1.1.7.3/FCL-release-1.1.7.3-all.apk)（Github）
-FCL的综合教程：[安卓玩Minecraft Java版的最佳选择？| FCL启动器使用教程&评测 - 哔哩哔哩](https://www.bilibili.com/video/BV1N94y1k7AN)
-进入服务器教程可参考本教程的**五、进入服务器**
-
->请访问[https://ipw.cn/ipv6/](https://ipw.cn/ipv6/)，查看“IP”一栏，如显示“网络未开启IPv6”，请忽略本消息。如果显示出了一长串奇怪的字符，这说明你的网络支持IPv6。请回到Minecraft界面。这时，你可以在“服务器地址”一栏填写`ipv6.tbedu.top:6000`，延迟普遍会更低。
-
-现在，双击刚才添加的服务器（或单击后点击**加入服务器**）
+你将使用FoldCraftLauncher（FCL）在安卓设备上游玩Minecraft Java Edition  
+[点我下载FCL 1.1.7.3](https://github.moeyy.xyz/https://github.com/FCL-Team/FoldCraftLauncher/releases/download/1.1.7.3/FCL-release-1.1.7.3-all.apk)（Github）  
+FCL的综合教程：[安卓玩Minecraft Java版的最佳选择？| FCL启动器使用教程&评测 - 哔哩哔哩](https://www.bilibili.com/video/BV1N94y1k7AN)  
+进入服务器教程可参考本教程的**五、进入服务器**  
