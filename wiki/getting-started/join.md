@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 加入社群
-parent: Getting Started
-grand_parent: Wiki
+parent: 开始使用
+grand_parent: 维基
 nav_order: 1
 ---
 
