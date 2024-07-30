@@ -1,6 +1,7 @@
 ---
 title: 首页
 layout: home
+nav_order: 0
 ---
 
 [![X_Star Server](https://nmgimg.www.panguidc.com/2024/07/30/e0ae08dccfb8f654893ad6bcc2e2a004.md.png)](https://docs.tbedu.top)
@@ -25,5 +26,5 @@ X_Star 服务器由星河软件工作室旗下 X_Star 管理组运营。
 赶快加入吧！
 
 ### 开始
-你可以从[这里](wiki/getting-started/join.html)加入我们的社群。  
-阅读[进服指南](wiki/getting-started/QuickPlay.html)以开始游玩。
+你可以从[这里]({{site.baseurl}}/wiki/getting-started/join.html)加入我们的社群。  
+阅读[进服指南]({{site.baseurl}}/wiki/getting-started/QuickPlay.html)以开始游玩。
