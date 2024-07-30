@@ -74,8 +74,6 @@ aux_links_new_tab: true
 back_to_top: true
 back_to_top_text: "返回页首"
 
-footer_content: "<b>版权所有 &copy; 2024 <a href='https://docs.tbedu.top'>X_Star Server Docs</a>。</b> 保留所有权利。<a href='https://ipw.cn/ipv6webcheck/?site=docs.tbedu.top' title='本站支持IPv6访问' target='_blank'><img style='display:inline-block;vertical-align:middle' alt='本站支持IPv6访问 src='https://static.ipw.cn/icon/ipv6-s1.svg'></a><a href="https://ipw.cn/ssl/?site=docs.tbedu.top' title='本站支持SSL安全访问' target='_blank'><img style='display:inline-block;vertical-align:middle' alt="本站支持SSL安全访问' src='https://static.ipw.cn/icon/ssl-s1.svg'></a>"
-
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
