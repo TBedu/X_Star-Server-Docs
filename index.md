@@ -26,4 +26,4 @@ X_Star 服务器由星河软件工作室旗下 X_Star 管理组运营。
 
 ### 开始
 你可以从[这里](wiki/getting-started/join.html)加入我们的社群。  
-阅读[进服指南](wiki/getting-started/quickplay.html)以开始游玩。
+阅读[进服指南](wiki/getting-started/QuickPlay.html)以开始游玩。
