@@ -2,7 +2,7 @@
 layout: page
 title: 常见问题
 parent: 维基
-nav_order: 1
+nav_order: 0
 ---
 
 # 常见问题
