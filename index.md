@@ -10,7 +10,7 @@ nav_order: 0
 **欢迎来到X_Star服务器！**
 {: .center }
 
-![version](https://img.shields.io/badge/version-1.0-blue)
+[![version](https://img.shields.io/github/v/release/TBedu/X_Star-Server-Docs?display_name=release)](https://github.com/TBedu/X_Star-Server-Docs/releases)
 [![last-commit](https://img.shields.io/github/last-commit/TBedu/X_Star-Server-Docs)](https://github.com/TBedu/X_Star-Server-Docs)
 {: .center }
 
