@@ -31,4 +31,10 @@ nav_order: 2
 `/warpinfo`: 查询指定传送点的位置信息。  
 
 ## 领地相关
-`/residence`: 查看Residence帮助。
+`/residence`: 查看Residence帮助。  
+
+## 未完待续
+
+::: tip 想要更新**插件教程**？
+请在 [TBedu/X_Star-Server-Docs](https://github.com/TBedu/X_Star-Server-Docs) 下发起 Pull Request。
+:::
