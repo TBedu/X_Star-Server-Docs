@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-{: .waring }
+{: .warning }
 此文档已弃用。请访问我们的最新文档：[https://wiki.tbedu.top/](https://wiki.tbedu.top/)
 
 **欢迎来到X_Star服务器！**

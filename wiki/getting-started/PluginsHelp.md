@@ -6,7 +6,7 @@ grand_parent: 维基
 nav_order: 2
 ---
 
-{: .waring }
+{: .warning }
 此文档已弃用。请访问我们的最新文档：[https://wiki.tbedu.top/](https://wiki.tbedu.top/)
 
 ## 通用指令  
