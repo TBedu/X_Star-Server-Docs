@@ -6,6 +6,9 @@ grand_parent: 维基
 nav_order: 2
 ---
 
+{: .waring }
+此文档已弃用。请访问我们的最新文档：[https://wiki.tbedu.top/](https://wiki.tbedu.top/)
+
 ## 通用指令  
 `/help`: 查看指令帮助。  
 `/help <命令>`: 查看某一指令帮助。  

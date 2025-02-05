@@ -6,6 +6,9 @@ grand_parent: 维基
 nav_order: 4
 ---
 
+{: .waring }
+此文档已弃用。请访问我们的最新文档：[https://wiki.tbedu.top/](https://wiki.tbedu.top/)
+
 ## 隐私政策
 
 ### 信息收集：

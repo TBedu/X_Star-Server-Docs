@@ -4,6 +4,11 @@ theme: just-the-docs
 
 url: https://docs.tbedu.top
 
+callouts:
+  warning:
+    title: 警告
+    color: red
+
 exclude:
  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
    - .sass-cache/

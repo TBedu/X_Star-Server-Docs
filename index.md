@@ -4,16 +4,15 @@ layout: home
 nav_order: 0
 ---
 
-[![X_Star Server](https://nmgimg.www.panguidc.com/2024/07/30/e0ae08dccfb8f654893ad6bcc2e2a004.md.png)](https://docs.tbedu.top)
+{: .waring }
+此文档已弃用。请访问我们的最新文档：[https://wiki.tbedu.top/](https://wiki.tbedu.top/)
 
- 
 **欢迎来到X_Star服务器！**
 {: .center }
 
 [![version](https://img.shields.io/github/v/release/TBedu/X_Star-Server-Docs?display_name=release)](https://github.com/TBedu/X_Star-Server-Docs/releases)
 [![last-commit](https://img.shields.io/github/last-commit/TBedu/X_Star-Server-Docs)](https://github.com/TBedu/X_Star-Server-Docs)
 {: .center }
-
 
 ### 简介
 X_Star 服务器由星河软件工作室旗下 X_Star 管理组运营。  

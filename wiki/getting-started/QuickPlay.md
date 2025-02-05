@@ -6,6 +6,9 @@ grand_parent: 维基
 nav_order: 0
 ---
 
+{: .waring }
+此文档已弃用。请访问我们的最新文档：[https://wiki.tbedu.top/](https://wiki.tbedu.top/)
+
 ## 在Windows上游玩
 ### 一、选择启动器
 - 使用Minecraft官方提供的启动器[Minecraft Launcher](https://www.xbox.com/zh-CN/games/store/minecraft-launcher/9pgw18npbzv5)游玩
